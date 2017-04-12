@@ -1,0 +1,110 @@
+dl8RH46es7
+OAUth2
+AppiD
+Appsecret
+ App 1-n resouce
+
+role n
+resouce n
+
+Api 
+authentication 
+app,[role]
+
+
+160326168
+192.168.0.35	
+255.255.255.0
+
+
+{"mapping":{
+  "tweet":{
+    "properties":{
+      "name":{"type":"string"},
+      "age":{"type":"integer"},
+      "comment":{"type":"string"}
+    
+    
+    }
+  
+  }
+
+
+
+}
+
+
+}
+post teacher
+{"name":"thao","email":"thao@gmail.com","pass":"123"}
+
+post classroom
+{"mslh":"1243","timeBegin":"8:30","timeEnd":"10:00","address":"D9-401","day":"wednesday"}
+
+post mark
+{"diemGiuaKy":8.5,"diemCuoiKy":8.5,"diemTongKet":8.5}
+
+post subject
+{"name":"Toan","mhp":"MI20123"}
+
+post student
+{"name":"Minh","grade":"BK2.06"}
+[{"classrooms":[],"grade":"BK2.06","id":1,"marks":[{"classroom":null,"diemCuoiKy":0.0,"diemGiuaKy":0.0,"diemTongKet":0.0,"id":1,"student":null}],"mssv":0,"name":"Minh"},{"classrooms":[],"grade":"BK2.06","id":2,"marks":[{"classroom":null,"diemCuoiKy":0.0,"diemGiuaKy":0.0,"diemTongKet":0.0,"id":2,"student":null}],"mssv":0,"name":"Nam"}]
+if(e intanceof Manager)
+
+https://www.facebook.com/v2.4/dialog/oauth?redirect_uri=https%3A%2F%2Ftinhte.vn%2Fregister%2Ffacebook&state=6aa8ff7b038f918779a8c2630a4fa49d&scope=publish_actions%2Cuser_friends%2Cpublic_profile%2Cemail&client_id=145923738846814&ret=login&logger_id=170ba470-d243-4c0d-96d4-97da5e1e0a22&ext=1463806212&hash=AeYix4tXo5yiYXJs
+
+
+https://tinhte.vn/register/facebook?code=AQAsxyvmbyBAzwiJfF0DxoSzEadwcUvqrftp4nDAVMUonZHFEja0H_LCdUWPrFE_3z7qfe6EVyVMxDBETbBcWpehoSg_Ld8vqSMDJrgh1t_PEmOi-e_ADsKy6F_fHnE763XNq3_7W27eZ1AW8AmHlojHao8kVTj4bCXesRWNQyiBp28nPQQCYNyX2pWjEfBJE5VP6Dr3xOWZz0mrJFusie-HGx76nyiguf1KvCi3kvw-MkzceKWoaH7Gue-cyDhUqG_Bilhf8Jt6iLjtHAzprpeJYRGCsWfkNlC8DZkQrG0KsGA1k6Qq_89rU3JpSILvMjoMb5uxJqo3rE4i7_G9J5xr&state=6aa8ff7b038f918779a8c2630a4fa49d#_=_
+
+grant_type=authorization_code&code=-muEuibqWsMOdJJEAIpcnzACS_P#AwNOizv#TMMgsDRduvhpUZMeCC=YwmnvpAtmRNpCdzU=JMQdD=no#VwJHPiKsKzTgpCYnlCztsballRdmhoRY#KjLaTTslXMAOSmFaLMTudbaao-oCNhyGPxZhjKKGsxNfGConeByScN#RgvSDwdBzfFuzsojYGLikiGphjQiKeY&redirect_uri=http://10.46.16.93:8080&client_id=f1585a1eb98ebb3d6d64d586eac63bd4b65a8e0e9bdc386752b844c01d32642a&client_secret=43173eae48810c942919b86e5825b9f3b869c199aab927975ac691a2cb78f796
+
+
+https://1link.slack.com/?redir=%2Foauth%2Freflow%3Fclient_id%3D18820935925.18822138421%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%253A8080%252Fdemo%252FgetToken.html%26scope%3Dchannels%253Ahistory%252Cchannels%253Aread%252Cusers%253Aread%252Cchat%253Awrite%253Auser%252Cim%253Awrite%252Cim%253Aread%252Cim%253Ahistory
+
+
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://accounts.google.com/o/oauth2/auth?%26access_type%3Doffline%26hl%3Dvi-VN%26origin%3Dhttps://tinhte.vn%26response_type%3Dcode%2Btoken%2Bid_token%2Bgsession%26client_id%3D572333712218-17emelrtbjqlumrd326fbnrjb2ma4kh5.apps.googleusercontent.com%26proxy%3Doauth2relay591507738%26scope%3Dhttps://www.googleapis.com/auth/plus.login%2Bemail%26request_visible_actions%3Dhttp://schemas.google.com/AddActivity%26redirect_uri%3Dpostmessage%26state%3D450310140%257C0.155312237%26cookie_policy%3Dsingle_host_origin%26include_granted_scopes%3Dtrue%26jsh%3Dm;/_/scs/apps-static/_/js/k%253Doz.gapi.vi.VOnak-j89E0.O/m%253D__features__/am%253DAQ/rt%253Dj/d%253D1/rs%253DAGLTcCNPX_3zbR2RRFm7PGIhfvVJtt4l9Q%26from_login%3D1%26as%3D-2122218b4bfb3fe3&hl=vi-VN&oauth=1&sarp=1&scc=1#identifier
+
+
+
+post scope
+http://localhost:8523/oauth20/scopes
+
+{
+  "scope": "basic",
+  "description": "basic scope allows ...",
+  "cc_expires_in": "300",
+  "pass_expires_in": "120",
+  "refresh_expires_in": "300"
+}
+
+post app
+http://localhost:8080/oauth20/applications
+{
+  "name": "testApp",
+  "description": "This is a test app",
+  "scope": "basic",
+  "redirect_uri": "http://10.46.16.93:8080",
+  "client_id": "b9db6d84dc98a895035e68f972e30503d3c724c8",
+  "client_secret": "105ef93e7bb386da3a23c32e8563434fad005fd0a6a88315fcdf946aa761c838",
+  "application_details": {
+    "division": "IT",
+    "organization": "MM"
+  }
+}
+
+
+put app Id
+http://localhost:8080/oauth20/applications/b9db6d84dc98a895035e68f972e30503d3c724c8
+{"status":1}
+
+get code
+
+http://localhost:8523/oauth20/auth-codes?client_id=3fa540b0dcb61fd43d280a623b193ce6e9842ae312f49435013fd0092f42bab7&redirect_uri=http://10.46.16.93:8080&response_type=code&scope=read%20write
+
+post token
+http://localhost:8523/oauth20/tokens
+grant_type=authorization_code&code=-muEuibqWsMOdJJEAIpcnzACS_P#AwNOizv#TMMgsDRduvhpUZMeCC=YwmnvpAtmRNpCdzU=JMQdD=no#VwJHPiKsKzTgpCYnlCztsballRdmhoRY#KjLaTTslXMAOSmFaLMTudbaao-oCNhyGPxZhjKKGsxNfGConeByScN#RgvSDwdBzfFuzsojYGLikiGphjQiKeY&redirect_uri=http://10.46.16.93:8080&client_id=f1585a1eb98ebb3d6d64d586eac63bd4b65a8e0e9bdc386752b844c01d32642a&client_secret=43173eae48810c942919b86e5825b9f3b869c199aab927975ac691a2cb78f796
+
+
+//docker exec -it oauth2docker_author_1 bash
